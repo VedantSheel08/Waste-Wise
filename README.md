@@ -1,7 +1,7 @@
 WINNING PROJECT @MILLHACKS https://devpost.com/software/wastewise-bz60w5 
 
 Inspiration
-The inspiration for out product came to our minds as we were brainstorming ways that we could improve the community in simple ways. During this, we happen to be enjoying some snacks and by the time we were finished, we had no idea as to which bin we had to dispose of the wrapping in. It was here that it hit us, how many other time have people been unsure of how to dispose of something and defaulted to throwing it into the garbage.
+The inspiration for our product came to our minds as we were brainstorming ways that we could improve the community in simple ways. During this, we happen to be enjoying some snacks and by the time we were finished, we had no idea as to which bin we had to dispose of the wrapping in. It was here that it hit us, how many other time have people been unsure of how to dispose of something and defaulted to throwing it into the garbage.
 
 What it does
 To solve this problem, we came up with an AI, trained on thousands of images of waste which can accurately determine what disposal bin to use for an item, based solely on an uploaded image. It makes sure to use a concise and straightforward UI to save the most time.
